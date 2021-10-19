@@ -1,0 +1,1 @@
+This is a project for The Odin Project. I am to make a basic website that includes three recipes with some photos and lists.
